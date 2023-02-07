@@ -34,7 +34,7 @@ class UserAdmin(BaseUserAdmin):
             'fields': (
                 'email',
                 'password1',
-                'passoword2',
+                'password2',
                 'name',
                 'is_active',
                 'is_staff',
